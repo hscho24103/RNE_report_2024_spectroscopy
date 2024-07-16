@@ -4,4 +4,6 @@ sub/*.aux
 *.aux
 *.pdf
 *.log
-
+*.lof
+*.toc
+*.bbl

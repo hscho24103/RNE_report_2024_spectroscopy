@@ -1,15 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1721111002 "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.tex" "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.pdf" "preamble" 1721111002
-  "/etc/texmf/web2c/texmf.cnf" 1687337088 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/gshs_report.cls" 0 -1 0 ""
-  "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.aux" 1721111002 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.tex" 1721111002 3048 48ab923a405cbfb67a33fed9fa94fc0a ""
-  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
-  "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710828476 8256274 d7200d58d302ffc125b92ca3cb96cd7b ""
-  "gshs_report.cls" 0 -1 0 ""
-  "preamble.tex" 1721111002 3048 48ab923a405cbfb67a33fed9fa94fc0a ""
+["pdflatex"] 1721113781 "c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.tex" "c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.pdf" "preamble" 1721113781
+  "c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.aux" 1721113781 9 a94a2480d3289e625eea47cd1b285758 ""
+  "c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.tex" 1721113778 3049 8d45459752289792aec6a03119036a6b ""
+  "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1655719931 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1655719445 1316 b636689f1933f24d1294acdf6041daaa ""
+  "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1655719445 768 1321e9409b4137d6fb428ac9dc956269 ""
+  "c:/texlive/2021/texmf-dist/web2c/texmf.cnf" 1655720294 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
+  "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1655722337 2724555 aab5fd2aa89bbf548f360c6304f5ce18 ""
+  "c:/texlive/2021/texmf.cnf" 1655722160 713 e69b156964470283e0530f5060668171 ""
+  "preamble.tex" 1721113778 3049 8d45459752289792aec6a03119036a6b ""
   (generated)
-  "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.log"
   "preamble.log"
-  "/home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.pdf"
+  "c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.pdf"
+  "c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.log"

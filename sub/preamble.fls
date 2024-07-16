@@ -1,7 +1,9 @@
-PWD /home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.tex
-OUTPUT /home/guitar79/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.log
+PWD c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub
+INPUT c:/texlive/2021/texmf.cnf
+INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.tex
+OUTPUT c:/Users/USER/Desktop/KBox/Github/RNE_report_2024_spectroscopy/sub/preamble.log
+INPUT c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
